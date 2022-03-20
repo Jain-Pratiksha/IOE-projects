@@ -1,3 +1,4 @@
+// Code for connection between NodeMcu, DHT11 and Moisture sensor.
 // Import required libraries
 
 #include <Arduino.h>
